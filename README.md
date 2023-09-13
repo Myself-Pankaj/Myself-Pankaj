@@ -1,9 +1,6 @@
 #  Hello, I’m @Pankaj 👋
 <img src="https://res.cloudinary.com/attar-shop/image/upload/v1694602860/Personal/banner_ffcter.png" alt="Pankaj " width="80%" height="20%" style="border: 1px solid #000; padding: 10px;">
 
-[![Instagram Icon](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/ifeelpankaj) 
-[![LinkedIn Icon](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/ifeelpankaj) 
-
 ## About me
 
 ### I'm a passionate software engineer with a strong focus on MERN (MongoDB, Express, React, Node.js) stack development, DevOps practices, and Expo React Native. 
@@ -77,5 +74,8 @@ authentication and integrated cart functionality connected to a backend API.
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+
+[![Instagram Icon](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/ifeelpankaj) 
+[![LinkedIn Icon](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/ifeelpankaj) 
 
 
