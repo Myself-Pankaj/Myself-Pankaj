@@ -1,5 +1,5 @@
 #  Hello, I’m @Pankaj 👋
-[![Pankaj's GitHub Banner](https://res.cloudinary.com/attar-shop/image/upload/v1694602860/Personal/banner_ffcter.png)](https://my-portfolio-sliv.onrender.com/)
+<img src="https://res.cloudinary.com/attar-shop/image/upload/v1694602860/Personal/banner_ffcter.png" alt="Pankaj " width="80%" height="40%" style="border: 1px solid #000; padding: 10px;">
 
 [![Instagram Icon](https://img.icons8.com/color/96/000000/instagram-new.png)](https://www.instagram.com/ifeelpankaj) 
 [![LinkedIn Icon](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/ifeelpankaj) 
