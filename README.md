@@ -40,6 +40,16 @@ authentication and integrated cart functionality connected to a backend API.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 
+### [Tour and Travel](https://github.com/Myself-Pankaj/Production_Frontend)
+
+- Bari Travels is the app used to book the cab for end user and usig this one can book their ride easily.
+- Technologies Used:
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=React&logoColor=black)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
+
 ### [Academic-Asset's](https://github.com/Myself-Pankaj/Academics-Asset-Frontned)
 
 - This dynamic web application offers a wide range of features to enhance the user experience
